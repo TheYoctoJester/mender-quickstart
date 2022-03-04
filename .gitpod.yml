@@ -1,5 +1,4 @@
-image:
-    file: theyoctojester/mender-quickstart-container:latest
+image: theyoctojester/mender-quickstart-container:latest
 
 tasks:
     - init: |
