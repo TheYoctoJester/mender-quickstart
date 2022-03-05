@@ -3,3 +3,4 @@ image: theyoctojester/mender-quickstart-container:latest
 tasks:
     - init: |
             docker pull mendersoftware/mender-client-qemu:latest
+            docker pull bash:5.0
